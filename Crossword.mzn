@@ -1,5 +1,5 @@
 include "alldifferent.mzn";
-include "crossword3.dzn";
+include "crossword1.dzn";
 
 set of int: solutions; %le soluzioni previste
 int: rows; %numero di righe
